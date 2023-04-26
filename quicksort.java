@@ -20,8 +20,7 @@ class quicksort {
 	{
 
 		//Here we pick a pivot that will be used for partition ahead
-		
-		System.out.println("Hallo");
+		System.out.println("ok");
 		int pivot = arr[e];
 		int i = (s - 1);
 
@@ -84,3 +83,4 @@ class quicksort {
 		printArray(arr, p);
 	}
 }
+//github desktop is scheiße
