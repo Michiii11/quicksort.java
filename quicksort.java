@@ -21,6 +21,7 @@ class quicksort {
 
 		//Here we pick a pivot that will be used for partition ahead
 		
+		System.out.println("Hallo");
 		int pivot = arr[e];
 		int i = (s - 1);
 
